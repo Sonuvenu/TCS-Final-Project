@@ -15,6 +15,14 @@
   var jsscore  = 0;
 
   jsscore = 0;
+  
+  window.addEventListener("keydown", function(e) {
+      // space and arrow keys
+      if([32, 37, 38, 39, 40].indexOf(e.keyCode) > -1) {
+          e.preventDefault();
+      }
+    }, false);
+  
   function randomOffset() {
     return Math.floor(Math.random() * SIZE / GRID_SIZE) * GRID_SIZE;
   }
