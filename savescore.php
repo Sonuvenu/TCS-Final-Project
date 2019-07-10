@@ -1,5 +1,5 @@
 <?php
-header('location:home.php');
+header('location:snake.php');
 session_start();
 
 $con = mysqli_connect('localHost','root','');

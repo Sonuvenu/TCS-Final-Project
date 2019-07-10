@@ -139,7 +139,7 @@
     <div class="row">
   <div class="column">
     <div class="card">
-      <img src="headshot.jpg" alt="Victor Polisetty" style="width:20%">
+      <img src="img2.jpg" alt="Victor Polisetty" style="width:20%">
       <div class="container">
         <h2>Victor Polisetty</h2>
         <p class="title">Student (12th Grade)</p>
@@ -152,7 +152,7 @@
 
   <div class="column">
     <div class="card">
-      <img src="football1.jpg" alt="Sonu Venu" style="width:20%">
+      <img src="img3.jpg" alt="Sonu Venu" style="width:20%">
       <div class="container">
         <h2>Sonu Venu</h2>
         <p class="title">Student (12th Grade)</p>

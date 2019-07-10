@@ -22,7 +22,9 @@
     </head>
     <body>
         <div id="box1">
-            <h1>
+
+            <h1 style="font-size: 60px;">
+              <img src="omnigames logo.png" width="300" height="187.5"><br>
          Omni Games
       </h1>
       </div>
@@ -86,7 +88,7 @@
         </div>
 
         </div>
-        </div>  
+        </div>
 
         <br>
 

@@ -40,7 +40,7 @@
 
             <!-- Right-aligned links -->
             <div class="topnav-right">
-              <a> Hello <?php session_start(); echo $_SESSION['user']; ?></a>
+              <a> Hello Guest</a>
               <a href="guestnews.html">News</a>
               <a href="guestcontact.html">About Us</a>
             </div>
@@ -58,13 +58,13 @@
         </div>
         -->
 
-
+ <div class="background_home">
         <div class="slideshow-container">
 
         <div class="mySlides fade">
           <div class="numbertext">1 / 3</div>
           <a href = "pongguest.php">
-          <img src="i4.jpg" style="width:100%; height:1200px">
+          <img src="i4.jpg" style="width:80%; height:1000px">
           <div class="text" style = "color:White">Pong</div>
           </a>
         </div>
@@ -72,7 +72,7 @@
         <div class="mySlides fade">
           <a href = "snakeguest.php">
           <div class="numbertext">2 / 3</div>
-          <img src="i3.png" style="width:100%; height:1000px">
+          <img src="i3.png" style="width:80%; height:1000px">
           <div class="text" style = "color:White">Snake</div>
           </a>
         </div>
@@ -80,7 +80,7 @@
         <div class="mySlides fade">
           <a href = "tetrisguest.php">
           <div class="numbertext">3 / 3</div>
-          <img src="i2.jpg" style="width:100%; height:1200px">
+          <img src="i2.jpg" style="width:80%; height:1000px">
           <div class="text" style = "color:White">Hardcore Tetris</div>
           </a>
         </div>

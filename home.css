@@ -139,6 +139,7 @@
     .art-boxed{
       border: 2px solid green;
       padding: 10px;
+      color: white;
     }
   /*--------------------------------------------*/
   * {box-sizing: border-box;}
